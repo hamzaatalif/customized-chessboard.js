@@ -1,0 +1,24 @@
+{
+  "name": "custom-chess-game",
+  "version": "1.0.0",
+  "description": "This is a customized version of chessboard.js and done in vanillajs.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamzaatalif/customized-chessboard.js.git"
+  },
+  "keywords": [
+    "chessboard",
+    "vanillajs",
+    "custom",
+    "game"
+  ],
+  "author": "Hamza Imranist (\"https://imranist.me\")",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamzaatalif/customized-chessboard.js/issues"
+  },
+  "homepage": "https://github.com/hamzaatalif/customized-chessboard.js#readme"
+}
